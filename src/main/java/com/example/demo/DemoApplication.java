@@ -9,6 +9,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println(123);
         System.out.println(123456);
+        System.out.println(123456789);
     }
 
 }
